@@ -1,1 +1,1 @@
-DataTractor is the outcome of a MaRDA Working Group on connecting and advancing interoperability of efforts on automated extraction of metadata from materials files.
+DataTractor is the outcome of a [MaRDA Working Group](https://github.com/marda-alliance/metadata_extractors) on connecting and advancing interoperability of efforts on automated extraction of metadata from materials files.
